@@ -28,10 +28,6 @@ LibreOffice_
 
    winget install -e --id TheDocumentFoundation.LibreOffice
 
-.. seealso::
-
-   :doc:`/winget`
-
 個人的必修技法
 ======================================================================
 

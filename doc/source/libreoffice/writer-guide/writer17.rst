@@ -75,7 +75,7 @@ Using document properties to hold metadata and information that changes
 ======================================================================
 
 文書の |PropertiesDlg| にはタブが六つある。|GeneralTab| と :guilabel:`Statistics`
-タブの情報はプログラムが生成する。一部の情報[#writer17-footnote1]_ は
+タブの情報はプログラムが生成する。一部の情報 [#writer17-footnote1]_ は
 |OptionsDlg| |UserDataPage| から取得される。|FontTab| と |SecurityTab| の選択肢
 については本書の他の箇所に説明がある。
 

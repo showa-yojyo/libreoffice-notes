@@ -47,10 +47,6 @@ Writer は Microsoft Office ファイルから SmartArt 画像をインポート
 線画を編集するには、ベクトル描画プログラムを使用しろ。多くの画像は LibreOffice
 Drawで 十分だ。|GIMP| や Inkscape のようなオープンソースのツールは優れている。
 
-.. admonition:: 読者ノート
-
-   :doc:`/inkscape/index`
-
 画像を選択または作成する際に考慮すべき点には、画質や、画像を色で印刷するか白黒で
 印刷するかなどがある。
 
