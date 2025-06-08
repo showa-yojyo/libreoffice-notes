@@ -477,7 +477,7 @@ Chart types
 
 .. seealso::
 
-   :doc:`/libreoffice/calc-guide/calc03`
+   :doc:`../calc-guide/calc03`
 
 Entering chart data
 ----------------------------------------------------------------------

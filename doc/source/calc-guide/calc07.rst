@@ -634,7 +634,7 @@ General tab of PDF Options dialog
 :guilabel:`Whole Sheet Export` を選択すると、当ダイアログボックスの他の多くの設
 定を無視する。
 
-.. |SeeWriter07| replace:: :doc:`/libreoffice/writer-guide/writer07` と内容が重複するので、ノートとして先に出来たそちらを見ろ。
+.. |SeeWriter07| replace:: :doc:`../writer-guide/writer07` と内容が重複するので、ノートとして先に出来たそちらを見ろ。
 
 .. admonition:: 読者ノート
 
