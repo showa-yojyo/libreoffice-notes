@@ -7,7 +7,7 @@ LibreOffice 基本ノート
    :Platform: Windows 10
    :Version: 7.6.4.1 x86_64
 
-.. contents:: 本章見出し
+.. contents:: 章見出し
    :local:
 
 LibreOffice 関連資料

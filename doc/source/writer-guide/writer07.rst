@@ -4,7 +4,7 @@ Writer Guide Chapter 7, Printing and Publishing ノート
 
 .. include:: ./writer-inc.txt
 
-.. contents:: 本章見出し
+.. contents:: 章見出し
    :depth: 3
    :local:
 

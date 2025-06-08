@@ -166,7 +166,7 @@ Starting with no existing documents
 既存の文書がない状態から始める場合、最初からすべてを思い通りに設定することができ
 る。以下の順番に従え。
 
-.. contents::
+.. contents:: 節見出し
    :depth: 1
    :local:
 

@@ -7,7 +7,8 @@ LibreOffice Writer 利用ノート
    :Platform: Windows 10
    :Version: 7.6.4.1 x86_64
 
-.. contents::
+.. contents:: 章見出し
+   :local:
 
 Writer Guide 読書ノート
 ======================================================================

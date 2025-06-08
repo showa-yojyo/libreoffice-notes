@@ -7,7 +7,7 @@ LibreOffice Calc 利用ノート
    :Platform: Windows 10
    :Version: 7.6.4.1 x86_64
 
-.. contents:: Table of Contents
+.. contents:: 章見出し
    :local:
 
 Calc Guide 読書ノート

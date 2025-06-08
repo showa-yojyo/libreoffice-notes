@@ -4,7 +4,7 @@ Writer Guide Chapter 1, Introducing Writer ノート
 
 .. include:: ./writer-inc.txt
 
-.. contents:: 本章見出し
+.. contents:: 章見出し
    :depth: 2
    :local:
 

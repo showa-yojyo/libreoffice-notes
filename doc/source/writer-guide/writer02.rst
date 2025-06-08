@@ -4,7 +4,7 @@ Writer Guide Chapter 2, Working with Text: Basics ノート
 
 .. include:: ./writer-inc.txt
 
-.. contents:: 本章見出し
+.. contents:: 章見出し
    :depth: 3
    :local:
 
